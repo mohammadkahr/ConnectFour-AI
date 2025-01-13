@@ -1,6 +1,7 @@
 # Connect Four AI 🎮🧐
 
-![Game Screenshot](path/to/game-screenshot.png)
+![Image_One](Pictures/one.png)  
+
 
 ## About the Project  
 This is an AI-powered version of the classic Connect Four game implemented using the Minimax algorithm. It was developed as part of the **Artificial Intelligence Principles and Applications** course at the **University of Isfahan**.
@@ -13,12 +14,10 @@ This is an AI-powered version of the classic Connect Four game implemented using
 - **Dynamic Scoring**: Customizable scoring system to enhance gameplay.  
 - **Smart Moves**: The AI no longer makes random moves but calculates the best ones.
 
-![Minimax Flow](path/to/minimax-flow-diagram.png)
-
+![Image_Two](Pictures/two.png)  
 
 ## How the Minimax Algorithm Works 🧠  
 The Minimax algorithm evaluates possible game states up to a certain depth and selects the optimal move for the computer player.  
-![Minimax Example](path/to/minimax-example.png)
 
 ---
 
